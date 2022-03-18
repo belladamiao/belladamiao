@@ -30,6 +30,7 @@
   ##
 
 ![Snake animation](https://github.com/belladamiao/belladamiao/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
