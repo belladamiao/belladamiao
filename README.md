@@ -2,7 +2,7 @@
 ##
 
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando React Native e Swift
+- 🌱 Estudando JavaScript e Swift
 
 <br>
 
