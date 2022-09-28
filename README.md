@@ -2,7 +2,7 @@
 ##
 
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
-- 🌱 Estudando JavaScript e Swift
+- 🌱 Estudando a linguagem Swift
 
 <br>
 
