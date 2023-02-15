@@ -2,7 +2,7 @@
 ##
 
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
-- 🌱 Estudando a linguagem Swift
+- 🌱 Aprendendo desenvolvimento mobile com Kotlin e Java 
 
 <br>
 
