@@ -2,7 +2,6 @@
 ##
 
 - 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
-- 🌱 Aprendendo desenvolvimento mobile com Kotlin e Java 
 
 <br>
 
@@ -17,7 +16,6 @@
 <img align="center" alt="Bella-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Bella-HTML" hight="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Bella-SWIFT height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
  <img align="right" alt= "Bella-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/882827119799967745/954230848826249256/picasion.com_392b7466174f129d5f6d33c52fff34dd.gif">
      
 ##
