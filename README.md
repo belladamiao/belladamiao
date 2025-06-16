@@ -1,7 +1,7 @@
 ### Prazer, eu sou a Bella Damião! 💙
 ##
 
-- 🧑‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
+- 🧑‍🎓 Estudante de Sistemas de Informação pela PUC Minas
 
 <br>
 
